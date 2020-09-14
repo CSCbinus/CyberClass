@@ -254,7 +254,7 @@ printf("Value of b = %f\n", *((float*)p));
 ```
 
 # To Be Continued
-## Strucgtures & Unions
+## Structures & Unions
 
 21. Structures
 22. Unions
