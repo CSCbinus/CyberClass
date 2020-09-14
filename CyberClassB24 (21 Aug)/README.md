@@ -51,7 +51,7 @@ multi-line comment
 6. Operators
 ```
 Arithmetic					: +, -, *, /, %
-Assingment					: =
+Assignment					: =
 Augmented Assingment		: +=, -=, *=, /=, %=, &=, |=, ^=, <<=, >>=
 Bitwise Logic				: ~, &, |, ^
 Bitwise Shifts				: <<, >>
@@ -98,11 +98,11 @@ if(){
 ```
 switch(variable):
 	case value:
-		break
+		break;
 	case value:
-		break
+		break;
 	default:
-		break
+		break;
 ```
 
 10. The while Loop
