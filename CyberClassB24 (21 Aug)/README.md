@@ -50,23 +50,23 @@ multi-line comment
 
 6. Operators
 ```
-Arithmetic					: +, -, *, /, %
-Assignment					: =
+Arithmetic			: +, -, *, /, %
+Assignment			: =
 Augmented Assingment		: +=, -=, *=, /=, %=, &=, |=, ^=, <<=, >>=
-Bitwise Logic				: ~, &, |, ^
-Bitwise Shifts				: <<, >>
-Boolean Logic				: !, &&, ||
+Bitwise Logic			: ~, &, |, ^
+Bitwise Shifts			: <<, >>
+Boolean Logic			: !, &&, ||
 Conditional Evaluation		: ? :
-Equality Testing			: ==, !=
-Calling Function 			: ()
+Equality Testing		: ==, !=
+Calling Function 		: ()
 Increment and Decrement 	: ++, --
-Member Selection			: ., ,(actual comma), ->
-Object Size					: sizeof
-Order Relations				: <, <=, >, >=
+Member Selection		: ., ,(actual comma), ->
+Object Size			: sizeof
+Order Relations			: <, <=, >, >=
 Reference and Dereference	: &, *, []
-Sequencing					: ,
+Sequencing			: ,
 Subexpression Grouping		: ()
-Type Conversion				: (typename)
+Type Conversion			: (typename)
 ```
 
 ## Conditionals and Loops
